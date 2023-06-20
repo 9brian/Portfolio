@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio Practice
 
 In this project, I will be practicing and following tutorials to perfect an appealing portfolio website. This repo is intended to be used as practice.
 
